@@ -11,12 +11,12 @@ entity entity:tardisGetInterior()
 ```javascript
 number entity:tardisGetInteriorSize()
 ```
- If user on `TARDIS Interior/Exterior`, returns TARDIS Interior `size`, else `-1`.
+ If used on `TARDIS Interior/Exterior`, returns TARDIS Interior `size`, else `-1`.
 
 ```javascript
 number entity:tardisSetInteriorSize( number size )
 ```
- If user on `TARDIS Interior/Exterior`, sets TARDIS Interior `size` and returns `1`, else `0`.
+ If used on `TARDIS Interior/Exterior`, sets TARDIS Interior `size` and returns `1`, else `0`.
 
 # Lua Functions:
 
