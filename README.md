@@ -1,5 +1,5 @@
 # E2TISC - E2 TARDIS Interior Size Changer
- Simple Addon for Manipulating TARDIS Interior Size Using `Expression 2`
+ Simple Addon for Changing TARDIS Interior Size Using `Expression 2`
 
 # E2 Functions:
 
